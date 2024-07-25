@@ -1,3 +1,5 @@
+##
+##This will be the free version of the app when launched.
 !pip install llama-index
 !pip install llama-index-embeddings-huggingface
 !pip install peft
